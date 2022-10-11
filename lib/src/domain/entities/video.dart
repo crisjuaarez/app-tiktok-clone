@@ -19,7 +19,8 @@ const videos = <Video>[
   Video(
     title: 'Title',
     description: 'Description',
-    url: 'https://c.tenor.com/rGlJRTpiBr8AAAAM/tiktok-dance.gif',
+    // url: 'https://c.tenor.com/rGlJRTpiBr8AAAAM/tiktok-dance.gif',
+    url: 'https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4',
     userName: 'Dash',
     userAvatar:
         'https://ih1.redbubble.net/image.1076687066.0716/st,small,507x507-pad,600x600,f8f8f8.jpg',
@@ -31,7 +32,8 @@ const videos = <Video>[
   Video(
     title: 'Title',
     description: 'Description',
-    url: 'https://c.tenor.com/wSL8W4ewz3AAAAAC/tiktok-dancing.gif',
+    // url: 'https://c.tenor.com/rGlJRTpiBr8AAAAM/tiktok-dance.gif',
+    url: 'https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4',
     userName: 'Dash',
     userAvatar:
         'https://ih1.redbubble.net/image.1076687066.0716/st,small,507x507-pad,600x600,f8f8f8.jpg',
@@ -43,8 +45,8 @@ const videos = <Video>[
   Video(
     title: 'Title',
     description: 'Description',
-    url:
-        'https://i.pinimg.com/originals/30/7c/de/307cde68b1313fb6fe1f958f6a043959.gif',
+    // url: 'https://c.tenor.com/rGlJRTpiBr8AAAAM/tiktok-dance.gif',
+    url: 'https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4',
     userName: 'Dash',
     userAvatar:
         'https://ih1.redbubble.net/image.1076687066.0716/st,small,507x507-pad,600x600,f8f8f8.jpg',
@@ -53,4 +55,42 @@ const videos = <Video>[
     saves: 329,
     shares: 678,
   ),
+  Video(
+    title: 'Title',
+    description: 'Description',
+    // url: 'https://c.tenor.com/rGlJRTpiBr8AAAAM/tiktok-dance.gif',
+    url: 'https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4',
+    userName: 'Dash',
+    userAvatar:
+        'https://ih1.redbubble.net/image.1076687066.0716/st,small,507x507-pad,600x600,f8f8f8.jpg',
+    likes: 986,
+    comments: 32,
+    saves: 329,
+    shares: 678,
+  ),
+  // Video(
+  //   title: 'Title',
+  //   description: 'Description',
+  //   url: 'https://c.tenor.com/wSL8W4ewz3AAAAAC/tiktok-dancing.gif',
+  //   userName: 'Dash',
+  //   userAvatar:
+  //       'https://ih1.redbubble.net/image.1076687066.0716/st,small,507x507-pad,600x600,f8f8f8.jpg',
+  //   likes: 986,
+  //   comments: 32,
+  //   saves: 329,
+  //   shares: 678,
+  // ),
+  // Video(
+  //   title: 'Title',
+  //   description: 'Description',
+  //   url:
+  //       'https://i.pinimg.com/originals/30/7c/de/307cde68b1313fb6fe1f958f6a043959.gif',
+  //   userName: 'Dash',
+  //   userAvatar:
+  //       'https://ih1.redbubble.net/image.1076687066.0716/st,small,507x507-pad,600x600,f8f8f8.jpg',
+  //   likes: 986,
+  //   comments: 32,
+  //   saves: 329,
+  //   shares: 678,
+  // ),
 ];
