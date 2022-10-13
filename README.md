@@ -1,16 +1,8 @@
 # app_tiktok
 
 A new Flutter project.
+ 
+App TikTok Clone with VideoPlayer
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![app_tiktok](https://user-images.githubusercontent.com/55218990/195731686-03cb092a-fc8d-4c23-9b40-31c477a3e9ac.gif)
